@@ -1,0 +1,1 @@
+flashspi X58AUD7.FC
